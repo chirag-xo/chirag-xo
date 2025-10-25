@@ -14,9 +14,9 @@ I'm Chirag Sachdeva, a final-year B.Tech student and Frontend Developer passiona
 
 [![Mail Badge](https://img.shields.io/badge/-chiragsachdeva8150@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](#)
 [![Linkedin Badge](https://img.shields.io/badge/-Chirag%20Sachdeva-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-sachdeva007/)
+[![](https://komarev.com/ghpvc/?username=chirag-xo&color=blue&label=Profile%20Views)](https://github.com/chirag-xo)
+[![](https://img.shields.io/github/followers/chirag-xo?label=GitHub%20Followers)](https://github.com/chirag-xo)
 
-[![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=Profile%20Views)](https://github.com/chirag-xo)
-[![](https://img.shields.io/github/followers/your-github-username?label=GitHub%20Followers)](https://github.com/chirag-xo)
 
 
 ---
