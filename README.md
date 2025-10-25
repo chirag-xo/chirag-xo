@@ -7,13 +7,13 @@ I'm Chirag Sachdeva, a final-year B.Tech student and Frontend Developer passiona
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 ### 📬 Connect with Me
 
 [![Mail Badge](https://img.shields.io/badge/-chiragsachdeva8150@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](#)
-[![Linkedin Badge](https://img.shields.io/badge/-Chirag%20Sachdeva-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-sachdeva007/)
+[![Linkedin Badge](https://img.shields.io/badge/-Chirag%20Sachdeva-0284c7?style=flat&labelColor=white&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-sachdeva007/)
 
 
 
