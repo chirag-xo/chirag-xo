@@ -22,7 +22,7 @@ I'm Chirag Sachdeva, a final-year B.Tech student and Frontend Developer passiona
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,html,css,nodejs,python,react,nextjs,sql,ts&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,js,html,css,nodejs,python,react,nextjs,ts&theme=light" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@ I'm Chirag Sachdeva, a final-year B.Tech student and Frontend Developer passiona
 
 ### 🧩 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saboo24&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages&include_orgs=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-xo&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages&include_orgs=true)
 
 
 ---
