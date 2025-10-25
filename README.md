@@ -1,19 +1,67 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Amine%20Hamzaoui&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Software%20Engineer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
 
-# 👋 Hi, I'm Chirag Sachdeva<br><br>🎓 B.Tech @ B.I.T. Mesra (2022–2026)  <br>💻 Software Development Engineer |Full-stack Developer | AI Enthusiast <br><br>---<br><br>### 🔭 Currently Building:<br>- [AI-Agent](https://ai-booking-agent-one.vercel.app/) – Natural language booking assistant with real-time Google Calendar sync via OAuth2 and intelligent slot parsing.<br>- [Content.AI](https://congen-ai.vercel.app) – AI-powered content SaaS using Gemini API, Clerk, Razorpay, Drizzle ORM.<br>- [Imagify](https://imagify-neon.vercel.app) – Text-to-Image generator with Replicate API.<br><br>---<br><br>### 👯 Open to Collaborate On:<br>- GenAI + SaaS projects<br>- React/Next.js-based tools<br>- Scalable backend systems (Node.js, PostgreSQL)<br><br>---<br><br>### 🌱 Learning:<br>- System Design & Docker  <br>- Agentic AI , n8n <br>- Advanced DSA for tech interviews<br><br>---<br><br>### 💬 Ask Me About:<br>- Building scalable full-stack apps (Next.js, TypeScript, PostgreSQL)<br>- API integrations (Razorpay, Replicate, Clerk)<br>- Animations & UI/UX (Framer Motion, Tailwind)<br><br>---<br><br>### ⚡ Fun Fact:<br>Turned my Spotify listening habits into mood graphs — discovered I code best listening Weekend XO❤️<br><br>---<br><br>### 📫 Connect with Me:<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/chirag-sachdeva007/)<br>[![GitHub](https://img.shields.io/badge/GitHub-chirag--xo-black?logo=github)](https://github.com/chirag-xo)<br><br>---<br><br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sachdeva.chirag_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-sachdeva007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chiragsachdeva8150@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chirag-xo&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=chirag-xo&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-xo&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Today's Quote :
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm Chirag Sachdeva, a final-year B.Tech student and Frontend Developer passionate about AI and Machine Learning. I enjoy building interactive web projects and exploring intelligent solutions.
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💡 *“Crafting logic and elegance in every line of code.”*
+
+---
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+
+### 📬 Connect with Me
+
+[![Mail Badge](https://img.shields.io/badge/-chiragsachdeva8150@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](#)
+[![Linkedin Badge](https://img.shields.io/badge/-Chirag%20Sachdeva-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Facebook Badge](https://img.shields.io/badge/-Chirag%20Sachdeva-0a66c2?style=flat&labelColor=0a66c2&logo=facebook&logoColor=white)](https://www.facebook.com/your-facebook-profile)
+[![Discord Badge](https://img.shields.io/badge/-Chirag-5865f2?style=flat&labelColor=5865f2&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
+[![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=Profile%20Views)](https://github.com/your-github-username)
+[![](https://img.shields.io/github/followers/your-github-username?label=GitHub%20Followers)](https://github.com/your-github-username)
+
+
+---
+
+### 🧠 Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,js,html,css,nodejs,php,python&theme=light" />
+  </a>
+</p>
+
+---
+
+### ⚙️ Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=light" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saboo24&theme=react&show_icons=true&hide_border=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saboo24&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB)
+
+---
+
+### 🧩 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saboo24&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages&include_orgs=true)
+
+
+---
+
+
+## 🏆 Top Contributed Repo
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Saboo24&limit=5&theme=react&combine_all_yearly_contributions=true)
+
+---
+
+<p align="center">
+  <i>“Code is where creativity meets logic.”</i> ✨
+</p>
