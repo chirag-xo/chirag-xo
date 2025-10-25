@@ -13,11 +13,10 @@ I'm Chirag Sachdeva, a final-year B.Tech student and Frontend Developer passiona
 ### 📬 Connect with Me
 
 [![Mail Badge](https://img.shields.io/badge/-chiragsachdeva8150@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](#)
-[![Linkedin Badge](https://img.shields.io/badge/-Chirag%20Sachdeva-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Facebook Badge](https://img.shields.io/badge/-Chirag%20Sachdeva-0a66c2?style=flat&labelColor=0a66c2&logo=facebook&logoColor=white)](https://www.facebook.com/your-facebook-profile)
-[![Discord Badge](https://img.shields.io/badge/-Chirag-5865f2?style=flat&labelColor=5865f2&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
-[![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=Profile%20Views)](https://github.com/your-github-username)
-[![](https://img.shields.io/github/followers/your-github-username?label=GitHub%20Followers)](https://github.com/your-github-username)
+[![Linkedin Badge](https://img.shields.io/badge/-Chirag%20Sachdeva-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-sachdeva007/)
+
+[![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=Profile%20Views)](https://github.com/chirag-xo)
+[![](https://img.shields.io/github/followers/your-github-username?label=GitHub%20Followers)](https://github.com/chirag-xo)
 
 
 ---
