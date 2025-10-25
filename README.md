@@ -14,8 +14,6 @@ I'm Chirag Sachdeva, a final-year B.Tech student and Frontend Developer passiona
 
 [![Mail Badge](https://img.shields.io/badge/-chiragsachdeva8150@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](#)
 [![Linkedin Badge](https://img.shields.io/badge/-Chirag%20Sachdeva-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-sachdeva007/)
-[![](https://komarev.com/ghpvc/?username=chirag-xo&color=blue&label=Profile%20Views)](https://github.com/chirag-xo)
-[![](https://img.shields.io/github/followers/chirag-xo?label=GitHub%20Followers)](https://github.com/chirag-xo)
 
 
 
@@ -24,7 +22,7 @@ I'm Chirag Sachdeva, a final-year B.Tech student and Frontend Developer passiona
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,js,html,css,nodejs,php,python&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,js,html,css,nodejs,python,react,nextjs,sql,ts&theme=light" />
   </a>
 </p>
 
@@ -33,7 +31,7 @@ I'm Chirag Sachdeva, a final-year B.Tech student and Frontend Developer passiona
 ### ⚙️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman&theme=light" />
   </a>
 </p>
 
@@ -41,9 +39,9 @@ I'm Chirag Sachdeva, a final-year B.Tech student and Frontend Developer passiona
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saboo24&theme=react&show_icons=true&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chirag-xo&theme=react&show_icons=true&hide_border=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saboo24&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chirag-xo&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB)
 
 ---
 
@@ -57,7 +55,7 @@ I'm Chirag Sachdeva, a final-year B.Tech student and Frontend Developer passiona
 
 ## 🏆 Top Contributed Repo
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Saboo24&limit=5&theme=react&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=chirag-xo&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 ---
 
